@@ -1,0 +1,151 @@
+body{
+    margin:0;
+    text-align:center;
+    font-family:'Merriweather',serif;
+    font-size:2em;
+    color:#40514E;
+}
+hr{
+    border-style:dotted none none;
+    border-width:10px;
+    border-color:#EAF6F6;
+    width:20%;
+    margin:100px auto;
+}
+h1{
+    margin:0;
+    font-family:'Sacramento',cursive;
+    font-size:5.625rem;
+    margin:50px auto 0;
+    color:#66BFBF;
+    line-height:2;
+}
+h2{
+    color:#66BFBF;
+    font-family:'Montserrat',sans-serif;
+    color:#66BFBF;
+    font-size:2.5rem;
+    font-weight:normal;
+}
+h3{
+    font-family:'Montserrat',sans-serif;
+    color:#11999E;
+}
+a{
+    text-decoration:none;
+    font-family:'Montserrat',sans-serif;
+}
+a:hover{
+    color:#EAF6F6;
+}
+/* practiced challange of video 4/*
+/*.div0{
+    background-color:#C1F8CF;
+    height:200px;
+    width:200px;
+    padding:20px;
+    border:10px solid black;
+    
+}
+.div1{
+    background-color:red;
+    height:200px;
+    width:200px;
+    border:solid 20px;
+    margin-left:260px;
+}   
+.div2{
+    background-color:yellow;
+    height:200px;
+    width:200px;
+    border:10px solid black;
+    margin-left:500px;
+}*/
+
+.innercontainer{
+    background-color:#BFFFF0;
+    position:relative;
+    padding-top:180px;
+}
+.middle-container{
+    margin:100px 0 ;
+    /*height:200px;
+    width:200px;
+    background-color:red;*/
+}
+.bottom-container{
+    padding:30px;
+    background-color:#66BFBF;
+}
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+.top-cloud{
+    position:absolute;
+    right:320px;
+    top:150px;
+}
+.skill{
+    margin-top:180px;
+}
+
+.skill-row{
+   width:50%;
+   margin:100px auto 100px;
+   text-align:left;
+   line-height:2;
+}
+.computer{
+    width:25%;
+    Float:left;
+    margin-right:30px;
+}
+.shuttle{
+    width:25%;
+    Float:right;
+}
+.ht{
+    margin:0 auto 0px;
+}
+/*.descript1{
+    clear:left;
+}
+.descript2{
+    clear:right;
+}*/
+.btn {
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+.btn:hover {
+        background: #30e3cb;
+        background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+        text-decoration: none;
+ }
+
+.cpy{
+    color:#EAF6F6;
+    padding:20px 0 20px;
+}
+.footer-link{
+    margin-right:50px;
+}
+
